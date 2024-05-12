@@ -37,7 +37,7 @@ public class StudentGradeCalculator {
         }
         else
         {
-            grade='E';
+            grade='F';
         }
         System.out.println();
         System.out.println("Total marks obtained is : "+total_marks);
